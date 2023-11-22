@@ -8,7 +8,6 @@ export default function HomePage() {
       <Header />
       <MainBody />
       <Footer />
-
       <div className="overlay"></div>
     </div>
   );

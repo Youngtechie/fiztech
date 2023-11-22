@@ -23,6 +23,9 @@ export default function Products() {
   };
 
   useEffect(() => {
+
+    
+
     // Use 'sessionStorage' and manage 'show' state to control the display of the search interface
     const noResult = document.querySelector(".noResult") as HTMLDivElement;
 
@@ -39,7 +42,7 @@ export default function Products() {
       setInputValue((val: string) => (val = value));
     }
 
-    filteredProducts.current = []
+    filteredProducts.current = [];
   }, []);
 
   useEffect(() => {
@@ -75,10 +78,10 @@ export default function Products() {
       sessionStorage.removeItem("searchedResult");
       (document.getElementById("inputToUse") as HTMLInputElement).value = "";
       setSearched([]);
-      filteredProducts.current = []
+      filteredProducts.current = [];
       const noResult = document.querySelector(".noResult") as HTMLDivElement;
       noResult.style.display = "none";
-      setInputValue(s => s = '');
+      setInputValue((s) => (s = ""));
     }
   }
 

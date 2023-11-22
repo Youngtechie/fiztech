@@ -9,9 +9,9 @@ export default function PagesLayout({
 }) {
   return (
     <div>
-      <Header />
-      {children}
-      <Footer />
+        <Header />
+        {children}
+        <Footer />
     </div>
   );
 }
