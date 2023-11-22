@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Product 1",
+      "description": "This is a detailed description for Product 1. It provides all the information you need to know about this amazing product. It has many features and benefits that make it a great choice for your needs. Don't miss out on this fantastic product!",
+      "price": 200000,
+      "fakePrice": 30,
+      "id": "product-1",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.5,
+      "quantity": 1,
+      "total": 20,
+      "category": "smartphones"
+    },
+    {
+      "name": "Product 2",
+      "description": "Product 2 is a top-notch item with a long and informative description. It's packed with features and comes at a reasonable price. This is the perfect choice for those looking for quality and value.",
+      "price": 250000,
+      "fakePrice": 35,
+      "id": "product-2",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.0,
+      "quantity": 1,
+      "total": 25,
+      "category": "smartphones"
+    },
+    {
+      "name": "Product 3",
+      "description": "Introducing Product 3, the ultimate solution for all your needs. Its extensive description covers everything you need to know about this fantastic product. It's competitively priced and comes highly recommended.",
+      "price": 300000,
+      "fakePrice": 40,
+      "id": "product-3",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.7,
+      "quantity": 1,
+      "total": 30,
+      "category": "smartphones"
+    },
+    {
+      "name": "Product 4",
+      "description": "Product 4 is a versatile and reliable option for various applications. This description provides a comprehensive overview of its features and benefits. It's a budget-friendly choice for discerning customers.",
+      "price": 150000,
+      "fakePrice": 25,
+      "id": "product-4",
+      "imgUrl": "/images/cart.png",
+      "rating": 3.8,
+      "quantity": 1,
+      "total": 15,
+      "category": "Accessories"
+    },
+    {
+      "name": "Product 5",
+      "description": "Experience excellence with Product 5. Its detailed description outlines the reasons why it's the best choice for you. This premium product offers exceptional value for its price.",
+      "price": 500000,
+      "fakePrice": 60,
+      "id": "product-5",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.2,
+      "quantity": 1,
+      "total": 50,
+      "category": "Accessories"
+    },
+    {
+      "name": "Product 6",
+      "description": "Product 6 is a top-rated item with a rich and informative description. It's equipped with an array of features and is attractively priced. This is the ideal option for those seeking quality and affordability.",
+      "price": 400000,
+      "fakePrice": 55,
+      "id": "product-6",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.6,
+      "quantity": 1,
+      "total": 40,
+      "category": "Accessories"
+    },
+    {
+      "name": "Product 7",
+      "description": "Product 7 is a versatile and cost-effective choice for a wide range of applications. This description provides a thorough overview of its features and advantages. It's an excellent choice for budget-conscious customers.",
+      "price": 220000,
+      "fakePrice": 28,
+      "id": "product-7",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.3,
+      "quantity": 1,
+      "total": 22,
+      "category": "Accessories"
+    },
+    {
+      "name": "Product 8",
+      "description": "Product 8 is an all-in-one solution for your specific needs. This comprehensive description covers every aspect of this remarkable product. It's competitively priced and comes highly recommended.",
+      "price": 180000,
+      "fakePrice": 22,
+      "id": "product-8",
+      "imgUrl": "/images/cart.png",
+      "rating": 3.9,
+      "quantity": 1,
+      "total": 18,
+      "category": "Laptops"
+    },
+    {
+      "name": "Product 9",
+      "description": "Discover the benefits of Product 9, the ultimate solution for your needs. Its extensive description provides all the details you need to make an informed decision. It's competitively priced and receives rave reviews.",
+      "price": 330000,
+      "fakePrice": 45,
+      "id": "product-9",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.4,
+      "quantity": 1,
+      "total": 33,
+      "category": "Laptops"
+    },
+    {
+      "name": "Product 10",
+      "description": "Product 10 is a premium choice for those who demand the best. Its in-depth description outlines its exceptional features and benefits. It offers unbeatable value for its price, making it a top pick among customers.",
+      "price": 280000,
+      "fakePrice": 35,
+      "id": "product-10",
+      "imgUrl": "/images/cart.png",
+      "rating": 4.1,
+      "quantity": 1,
+      "total": 28,
+      "category": "Laptops"
+    }
+  ]  
